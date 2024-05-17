@@ -1,2 +1,2 @@
 Responsive Registration Page
-Registration Page using HTML and CSS
+Registration Page using HTML and CSS 
